@@ -1,1 +1,45 @@
-/* Add your own styles */
+:root{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    background-color: rgb(111, 104, 105);
+}
+
+header{
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    color:white;
+    background-color: rgb(31, 25, 37);
+
+}
+main{
+    padding: 25px;
+
+
+}
+label{
+
+    font-size: 35px;
+}
+input{
+height: 64px;
+width: 500px;
+border: none;
+border-radius: 5px;
+font-size: 35px;
+font-weight: bolder;
+}
+button{
+border: none;
+border-radius: 10px;
+color:white;
+height: 64px;
+width: 128px;
+background-color: rgb(25, 23, 26);
+font-size: 20px;
+}
+#result{
+    padding: 5px;
+ color:white;
+background-color: rgb(31, 25, 37);
+}
